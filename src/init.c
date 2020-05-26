@@ -13,7 +13,7 @@ extern SEXP localMLE(SEXP, SEXP, SEXP, SEXP, SEXP);
 extern SEXP localScore(SEXP, SEXP, SEXP, SEXP, SEXP);
 extern SEXP optimalTarget(SEXP, SEXP);
 extern SEXP representative(SEXP);
-extern SEXP greedyStepRFunc(SEXP);
+extern SEXP greedyStepRFunc(SEXP, SEXP, SEXP, SEXP);
 extern SEXP causalInferenceEdge(SEXP, SEXP, SEXP, SEXP, SEXP);
 //extern SEXP imScore(SEXP);
 

@@ -1,5 +1,5 @@
 Package: IMaGES
-Version: 0.1
+Version: 0.1.1
 Date: 2019-01-04
 Title: Independent Multiple-Sample Greedy Equivalence Search
         Implementation
@@ -53,7 +53,7 @@ ByteCompile: yes
 NeedsCompilation: yes
 Encoding: UTF-8
 License: GPL (>= 2)
-Packaged: 2019-01-04 16:04:57 UTC; noahfl
+Packaged: 2020-05-25 13:41:29 UTC; ripley
 Repository: CRAN
 RoxygenNote: 6.1.0
-Date/Publication: 2019-01-25 15:50:03 UTC
+Date/Publication: 2020-05-26 05:13:32 UTC

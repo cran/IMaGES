@@ -1,4 +1,4 @@
-38aceb6b2055a98039e7ddb892feeaaa *DESCRIPTION
+0d9753ea7560cad681298bcc047b6cda *DESCRIPTION
 ac75f9bf814ed32bd4e28e6b52e39ec1 *NAMESPACE
 50e737173e93a4384dab893c865f9a3f *R/AllClasses.R
 7aea72cea5962f723fa3e44f7d2e0ce4 *R/datasets.R
@@ -27,7 +27,7 @@ de86f7a7110b64a98c8e3c0e21f72168 *src/Makevars.win
 2ced878a9b224e806d51885fafbfa64d *src/constraint.cpp
 a1b81dac89263e142adb64cd4b65ed49 *src/gies.cpp
 1e0b24baf2a23f8b74e0576cffdd25c4 *src/greedy.cpp
-3d2ee3b4ea926c9ff84bd5da3dd99380 *src/init.c
+19a94c82758054412bcdede5b6049897 *src/init.c
 3a2da7e64c67dba851eb720d8ddc7c15 *src/score.cpp
 47fba5e498dfc7b6ed88c230f658bbaa *vignettes/IMaGES.Rmd
 8b0c2912a7b196160f1768953f4d7a52 *vignettes/IMaGES.html
